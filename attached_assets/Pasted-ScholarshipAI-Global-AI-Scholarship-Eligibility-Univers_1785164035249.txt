@@ -1,0 +1,757 @@
+ScholarshipAI
+Global AI Scholarship Eligibility & University Matching Platform
+
+Tagline
+
+"Find scholarships you're most likely to win."
+
+Problem
+
+Millions of students waste months applying for scholarships they don't qualify for because:
+
+Every country uses different grading systems.
+Universities have different admission requirements.
+Students don't know how competitive they are.
+Most don't have professional SOPs or CVs.
+Few understand how publications, IELTS, work experience, research, volunteering, leadership, and awards affect admission.
+
+ScholarshipAI solves this problem using AI.
+
+Core Value Proposition
+
+Instead of searching scholarships,
+
+the app searches scholarships that match YOU.
+
+Users simply upload their academic profile.
+
+The AI predicts:
+
+scholarships they qualify for
+universities they qualify for
+probability of success
+weaknesses in their profile
+how to improve acceptance chances
+Core Modules
+1. Global GPA & CGPA Converter
+
+This becomes your flagship feature.
+
+Supports:
+
+Kenya
+Nigeria
+Ghana
+Uganda
+Tanzania
+South Africa
+India
+Pakistan
+Bangladesh
+Germany
+France
+Italy
+Spain
+UK
+USA
+Canada
+Australia
+China
+Japan
+Korea
+Middle East
+Europe
+
+and over 190 education systems.
+
+Converts
+
+Local Grade
+
+↓
+
+Unified GPA (4.0)
+
+↓
+
+ECTS
+
+↓
+
+Percentage
+
+↓
+
+Global Ranking Percentile
+
+Example
+
+Kenyan student
+
+Second Class Upper
+
+↓
+
+3.51 GPA
+
+↓
+
+89%
+
+↓
+
+Eligible for
+
+• Chevening
+
+• Erasmus
+
+• DAAD
+
+• Commonwealth
+
+• Fulbright
+
+2. Scholarship Match Engine
+
+Instead of filtering by country,
+
+the AI evaluates
+
+Academic strength
+
+Research
+
+IELTS
+
+TOEFL
+
+GRE
+
+GMAT
+
+SAT
+
+Publications
+
+Awards
+
+Volunteer work
+
+Leadership
+
+Internships
+
+Conference papers
+
+Patents
+
+Experience
+
+Nationality
+
+Gender-specific scholarships
+
+Disability scholarships
+
+Low-income scholarships
+
+Minority scholarships
+
+Country restrictions
+
+Age
+
+Years since graduation
+
+Employment history
+
+Research interests
+
+Language scores
+
+Preferred destination
+
+Budget
+
+Degree level
+
+Field of study
+
+Then returns
+
+Match Probability
+
+95%
+
+82%
+
+76%
+
+51%
+
+Green
+
+Excellent chance
+
+Yellow
+
+Competitive
+
+Red
+
+Unlikely
+
+3. AI Scholarship Profile Score
+
+Like a credit score.
+
+Example
+
+Scholarship Readiness Score
+
+89/100
+
+Breakdown
+
+CGPA
+
+★★★★★
+
+Research
+
+★★★★☆
+
+Leadership
+
+★★★☆☆
+
+IELTS
+
+★★★★★
+
+Volunteering
+
+★★☆☆☆
+
+Work Experience
+
+★★★★☆
+
+Recommendation Letters
+
+★★★★★
+
+SOP
+
+★★★☆☆
+
+CV
+
+★★★★★
+
+Users instantly know what to improve.
+
+4. AI Recommendation Engine
+
+Instead of saying
+
+"You don't qualify."
+
+It says
+
+Improve IELTS from 6.5 to 7.5
+
+↓
+
+Chance increases
+
+65%
+
+→
+
+89%
+
+Publish one paper
+
+↓
+
+Chance increases
+
+73%
+
+→
+
+91%
+
+Gain volunteer experience
+
+↓
+
+Chance increases
+
+58%
+
+→
+
+80%
+
+5. Document Builder (Premium)
+
+Generate
+
+Professional CV
+
+Academic CV
+
+Resume
+
+Scholarship Essay
+
+Motivation Letter
+
+Statement of Purpose (SOP)
+
+Research Proposal
+
+Study Plan
+
+Personal Statement
+
+Letter of Intent
+
+PhD Proposal
+
+Cover Letter
+
+Reference Letter Templates
+
+Each can be:
+
+AI-generated
+
+AI-edited
+
+Grammar checked
+
+Plagiarism checked (using licensed services)
+
+Human reviewed
+
+Premium Pricing
+
+$10 per page
+
+Additional tiers:
+
+AI-only editing: $5/page
+AI + human review: $10/page
+Express (24-hour turnaround): $20/page
+6. AI Scholarship Advisor
+
+Built-in chatbot
+
+Available 24/7
+
+Can answer
+
+Which scholarship should I apply for?
+
+Can I get DAAD?
+
+Do I qualify for Erasmus?
+
+Can I study in Germany without IELTS?
+
+What universities accept Second Class Lower?
+
+How do I write an SOP?
+
+What documents do I need?
+
+Premium users receive unlimited conversations.
+
+7. WhatsApp AI Bot
+
+Premium feature
+
+User connects WhatsApp.
+
+Can ask
+
+"My GPA is 3.4"
+
+↓
+
+Bot replies instantly.
+
+"My IELTS is 7"
+
+↓
+
+Bot updates recommendations.
+
+"My scholarship deadline is tomorrow"
+
+↓
+
+Bot sends checklist.
+
+"My SOP is attached"
+
+↓
+
+Bot reviews it.
+
+"My recommendation letter"
+
+↓
+
+Bot evaluates it.
+
+The bot can also send:
+
+deadline reminders
+application checklists
+interview tips
+visa guidance
+scholarship alerts
+8. Scholarship Tracker
+
+Users can
+
+Save scholarships
+
+Track deadlines
+
+Track submitted applications
+
+Track interview invitations
+
+Track results
+
+Color coding
+
+Applied
+
+Interview
+
+Rejected
+
+Accepted
+
+Visa
+
+Completed
+
+9. University Finder
+
+Search by
+
+Country
+
+Subject
+
+Tuition
+
+Scholarships
+
+Acceptance Rate
+
+English Requirement
+
+Research Output
+
+QS Ranking
+
+THE Ranking
+
+Funding
+
+Application Deadline
+
+10. AI Admission Predictor
+
+Example
+
+Harvard
+
+Admission
+
+22%
+
+Scholarship
+
+10%
+
+Oxford
+
+Admission
+
+41%
+
+Scholarship
+
+31%
+
+University of Melbourne
+
+Admission
+
+82%
+
+Scholarship
+
+76%
+
+Based on historical admission trends and user profile matching. These predictions should be clearly labeled as estimates, not guarantees.
+
+11. Research Profile Analyzer
+
+Uploads
+
+Google Scholar
+
+ORCID
+
+Scopus
+
+Publons
+
+ResearchGate
+
+Then calculates
+
+Publication count
+
+H-index
+
+Citation count
+
+Conference papers
+
+Journal quality
+
+Research strength
+
+PhD competitiveness
+
+12. IELTS & Test Score Analyzer
+
+Supports
+
+IELTS
+
+TOEFL
+
+GRE
+
+GMAT
+
+SAT
+
+ACT
+
+PTE
+
+Duolingo English Test
+
+Shows
+
+Accepted universities
+
+Scholarships
+
+Missing score requirements
+
+Recommended improvement targets
+
+13. Scholarship Calendar
+
+Monthly view
+
+Deadlines
+
+Interview dates
+
+Visa deadlines
+
+Result dates
+
+Personal reminders
+
+Push notifications
+
+14. AI Resume Scanner
+
+Uploads CV
+
+Gets
+
+ATS Score
+
+Grammar score
+
+Keyword score
+
+Academic score
+
+Scholarship score
+
+Suggestions
+
+15. Scholarship Marketplace
+
+Verified experts can sell
+
+SOP reviews
+
+Interview coaching
+
+CV writing
+
+Research editing
+
+Translation
+
+Language proofreading
+
+Visa consultation
+
+The platform earns a commission on each booking.
+
+16. Student Community
+
+Country groups
+
+University groups
+
+Scholarship groups
+
+Success stories
+
+Mentorship
+
+Discussion forums
+
+Database Architecture
+
+Core tables:
+
+Users
+Universities
+Programs
+Scholarships
+Countries
+Grading Systems
+GPA Conversions
+IELTS Requirements
+Publications
+Awards
+Research Profiles
+Work Experience
+Volunteer Experience
+Leadership Activities
+Application History
+Saved Scholarships
+Scholarship Matches
+Documents
+Payments
+Notifications
+Chat Sessions
+Revenue Model
+
+Freemium
+
+Free:
+
+GPA/CGPA converter
+Limited scholarship search
+Basic eligibility matching
+Limited AI chats
+
+Premium ($9.99/month):
+
+Unlimited AI scholarship matching
+Advanced profile analysis
+WhatsApp AI advisor
+Scholarship tracking
+Deadline alerts
+AI document generation
+Admission probability estimates
+
+Professional Services:
+
+SOP/CV/Essay editing: $10/page
+Express editing: $20/page
+Interview coaching
+Visa consultation
+
+Affiliate Revenue:
+
+English test preparation providers
+Universities
+Education loan providers
+Flight and accommodation partners
+Insurance providers
+Technology Stack
+
+Frontend:
+
+Flutter (iOS, Android, Web)
+
+Backend:
+
+FastAPI (Python)
+
+Database:
+
+PostgreSQL
+
+Cache:
+
+Redis
+
+Search:
+
+Elasticsearch or OpenSearch
+
+AI:
+
+OpenAI APIs
+OCR for transcript extraction
+Vector database (e.g., pgvector) for semantic scholarship matching
+
+Cloud:
+
+AWS or Google Cloud
+
+Authentication:
+
+Firebase Authentication or Auth0
+
+Payments:
+
+Stripe
+PayPal
+Apple In-App Purchases
+Google Play Billing
+
+Messaging:
+
+WhatsApp Business Platform
+Firebase Cloud Messaging
+Email notifications
+App Store & Play Store Compliance
+
+To maximize approval chances:
+
+Clearly state that eligibility scores and admission probabilities are estimates, not guarantees.
+Use official payment systems for digital content sold within the app where required by Apple and Google.
+Obtain user consent before processing academic records and personal documents.
+Encrypt sensitive data in transit and at rest.
+Provide a privacy policy, terms of service, and account deletion option.
+Avoid scraping websites that prohibit automated access; instead, use official APIs, open datasets, RSS feeds, or obtain permission where required.
+Long-Term Vision
+
+ScholarshipAI evolves beyond a scholarship search tool into a global academic intelligence platform. By standardizing education systems worldwide, evaluating complete applicant profiles, and using AI to recommend the most suitable opportunities, it becomes a personalized education advisor that helps students identify the right scholarships, strengthen weak areas of their applications, and manage the entire journey from academic assessment to admission and funding. This differentiated approach creates a scalable platform with global appeal while remaining compliant with major mobile app marketplace requirements.

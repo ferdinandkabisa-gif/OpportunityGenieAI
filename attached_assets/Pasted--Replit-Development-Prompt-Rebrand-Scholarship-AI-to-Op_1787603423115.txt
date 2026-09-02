@@ -1,0 +1,385 @@
+# Replit Development Prompt — Rebrand Scholarship AI to OpportunityGenie AI
+
+## Project Update Overview
+
+Update and enhance the **existing mobile application already built in Replit**. Do **not** rebuild the app from scratch. Keep the existing functionality and architecture, and integrate the new features into the current codebase.
+
+The app should be fully rebranded from **Scholarship AI** to **OpportunityGenie AI** and expanded with a secure backend, admin dashboard, scholarship management system, and AdMob monetization management.
+
+---
+
+## 1. Rebrand the App to OpportunityGenie AI
+
+Replace **"Scholarship AI"** with **"OpportunityGenie AI"** everywhere in the application.
+
+Update the branding in:
+
+* App name.
+* Splash screen.
+* Login and Sign Up screens.
+* Home screen header.
+* Navigation menu.
+* App metadata.
+* Notifications.
+* Settings page.
+* Any remaining text or assets referencing "Scholarship AI."
+
+Use the **uploaded OpportunityGenie AI logo** consistently throughout the application.
+
+---
+
+## 2. Animated Splash Screen Using the Uploaded Logo
+
+Create a premium splash screen animation when the app launches.
+
+### Animation Requirements
+
+* Use the **uploaded logo** (not a recreated version).
+* Extract and animate the **genie** element from the logo.
+* Start with a minimal background.
+* Animate the genie appearing with a magical glow or swirling effect.
+* Reveal the full OpportunityGenie AI logo.
+* Fade in the text **"OpportunityGenie AI"** beneath the logo.
+* Smoothly transition into the home screen after the animation completes.
+
+The animation should last approximately **2–3 seconds**, feel modern and lightweight, and not slow app startup.
+
+---
+
+## 3. Backend & Database
+
+Build or complete a secure backend connected to a persistent database.
+
+### User Database
+
+Store user information securely, including:
+
+* Unique User ID.
+* Full Name.
+* Email Address.
+* Secure hashed password.
+* Profile photo (optional).
+* Country.
+* Education level.
+* Scholarship interests.
+* Saved scholarships.
+* Notification preferences.
+* Date joined.
+* Last login timestamp.
+
+Passwords must **never** be stored in plain text.
+
+Use the existing Replit backend/database where possible (Supabase, PostgreSQL, Firebase, SQLite, etc.), and make it scalable.
+
+---
+
+## 4. Secure Admin Dashboard
+
+Create a password-protected Admin Dashboard accessible only to authorized administrators.
+
+### Dashboard Features
+
+The dashboard should allow administrators to:
+
+* Add new scholarships/opportunities.
+* Edit scholarships.
+* Delete or archive scholarships.
+* Publish or unpublish scholarships.
+* Schedule scholarship publication.
+* Mark scholarships as Featured.
+* Mark scholarships as Verified.
+* View recent activity.
+
+### Dashboard Overview Cards
+
+Display live statistics:
+
+* Total Users.
+* New Users This Week.
+* Total Scholarships.
+* Published Scholarships.
+* Draft Scholarships.
+* Expired Scholarships.
+* Featured Scholarships.
+* Verified Scholarships.
+* Saved Scholarships Count.
+
+Use clean cards and charts.
+
+---
+
+## 5. Scholarship Management System
+
+Each scholarship should include editable fields for:
+
+### Basic Information
+
+* Scholarship Title.
+* Provider/Organization.
+* Scholarship Image or Logo.
+* Description.
+* Country.
+* University (if applicable).
+* Study Level.
+* Field of Study.
+* Funding Type.
+* Scholarship Value.
+* Monthly Stipend.
+* Tuition Coverage.
+* Application Deadline.
+* Start Date.
+
+### Eligibility
+
+* Eligible Countries.
+* Academic Requirements.
+* Language Requirements.
+* Required Documents.
+
+### Official Application
+
+Add a dedicated field for:
+
+* **Official Application Link**
+
+The mobile app must display a prominent button:
+
+**Apply Officially**
+
+The button should always open the official application website entered in the dashboard.
+
+Administrators must be able to edit or replace the link anytime.
+
+---
+
+## 6. Latest Scholarships Feed
+
+Replace hard-coded scholarship listings with dynamic data from the backend.
+
+### Features
+
+Automatically display:
+
+* Newly published scholarships first.
+* Featured scholarships pinned at the top.
+* Expired scholarships hidden or clearly labeled.
+* Scholarships sorted by publication date and deadline.
+
+### User Filters
+
+Allow users to filter by:
+
+* Country.
+* Study Level.
+* Degree Type.
+* Fully Funded.
+* Partial Scholarship.
+* Internship.
+* Fellowship.
+* Exchange Program.
+* Deadline Month.
+
+Include keyword search.
+
+---
+
+## 7. Scholarship Detail Page
+
+Each scholarship page should display:
+
+* Scholarship image.
+* Title.
+* Provider.
+* Funding details.
+* Monthly stipend.
+* Tuition coverage.
+* Country.
+* Deadline.
+* Eligibility.
+* Required documents.
+* Official application button.
+* Save Scholarship button.
+* Share Scholarship button.
+
+---
+
+## 8. User Features
+
+Keep existing user functionality and improve it.
+
+Users should be able to:
+
+* Register.
+* Login securely.
+* Update profile.
+* Save scholarships.
+* Remove saved scholarships.
+* Receive notifications for newly posted scholarships.
+* View scholarship history.
+
+---
+
+## 9. Notifications
+
+Create backend support for notifications.
+
+Allow admins to send:
+
+* New scholarship alerts.
+* Deadline reminders.
+* Featured scholarship announcements.
+* App announcements.
+
+Users should receive push notifications when enabled.
+
+---
+
+## 10. AdMob Monetization Dashboard
+
+Create a dedicated **Monetization** section inside the Admin Dashboard.
+
+### Configuration Fields
+
+Include secure fields for:
+
+* Google AdMob App ID.
+* Android Banner Ad Unit ID.
+* Android Interstitial Ad Unit ID.
+* Android Rewarded Ad Unit ID.
+* iOS App ID.
+* iOS Banner Ad Unit ID.
+* iOS Interstitial Ad Unit ID.
+* iOS Rewarded Ad Unit ID.
+
+### Verification Panel
+
+Display configuration status, for example:
+
+* ✅ AdMob App ID Connected.
+* ✅ Banner Ad Configured.
+* ✅ Interstitial Ad Configured.
+* ⚠ Rewarded Ads Missing.
+* ⚠ Test Ads Enabled.
+* ✅ Production Ads Ready.
+
+Allow switching between:
+
+* Test Mode.
+* Production Mode.
+
+Keep production IDs hidden from regular users.
+
+---
+
+## 11. Admin Security
+
+Protect all admin routes.
+
+Implement:
+
+* Admin authentication.
+* Role-based permissions.
+* Protected API endpoints.
+* Input validation.
+* Authentication middleware.
+* Secure session/token handling.
+* Activity logging for admin changes.
+
+Regular users must never access admin functionality.
+
+---
+
+## 12. API Endpoints
+
+Extend the existing backend APIs.
+
+### User APIs
+
+* Register.
+* Login.
+* Logout.
+* Update Profile.
+* Save Scholarship.
+* Remove Saved Scholarship.
+* Fetch Saved Scholarships.
+
+### Scholarship APIs
+
+* Get Scholarships.
+* Search Scholarships.
+* Filter Scholarships.
+* Get Scholarship Details.
+
+### Admin APIs
+
+* Create Scholarship.
+* Edit Scholarship.
+* Delete Scholarship.
+* Publish Scholarship.
+* Feature Scholarship.
+* Verify Scholarship.
+* Update Official Application Link.
+* Dashboard Analytics.
+* Manage AdMob Configuration.
+
+Secure all admin endpoints.
+
+---
+
+## 13. UI/UX Improvements
+
+Maintain the current app design while making it more polished.
+
+### Design Goals
+
+* Modern AI-powered scholarship platform appearance.
+* Mobile-first responsive layout.
+* Fast loading screens.
+* Smooth transitions.
+* Loading indicators.
+* Empty-state illustrations.
+* Success and error messages.
+* Consistent typography.
+* Consistent OpportunityGenie AI branding.
+
+Use the uploaded logo throughout the app.
+
+---
+
+## 14. Technical Requirements
+
+Before making changes:
+
+1. Inspect the existing Replit project.
+2. Reuse the existing frontend framework.
+3. Reuse the existing backend where possible.
+4. Reuse existing authentication if present.
+5. Extend the current database instead of replacing it.
+6. Preserve all working features unless they conflict with this update.
+
+After implementation:
+
+* Test authentication.
+* Test scholarship CRUD operations.
+* Test official application links.
+* Test dashboard permissions.
+* Test AdMob configuration.
+* Test splash screen animation.
+* Test mobile responsiveness.
+* Fix any bugs introduced by the update.
+
+---
+
+# Final Deliverable
+
+The completed Replit project should include:
+
+* ✅ Rebranded **OpportunityGenie AI** app.
+* ✅ Animated splash screen using the uploaded genie logo.
+* ✅ Secure backend with persistent user database.
+* ✅ Admin dashboard for managing scholarships and users.
+* ✅ Dynamic scholarship feed with official application links.
+* ✅ Push notification support.
+* ✅ AdMob monetization configuration and verification panel.
+* ✅ Secure role-based authentication.
+* ✅ Fully integrated functionality without breaking the existing app.
